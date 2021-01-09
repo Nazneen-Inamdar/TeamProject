@@ -1,0 +1,10 @@
+
+public interface Training1 {
+
+	private String course_id;
+	private String course_name;
+	
+	}
+	
+
+	

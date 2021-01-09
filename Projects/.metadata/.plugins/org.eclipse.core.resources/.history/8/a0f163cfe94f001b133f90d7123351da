@@ -1,0 +1,12 @@
+
+public class Training1 {
+
+	private String course_id;
+	private String course_name;
+	
+	public Training1()
+	{
+		
+	}
+	
+}

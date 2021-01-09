@@ -1,0 +1,14 @@
+
+public interface Training2 {
+	 default void gitTraining()
+	 {
+		 
+	 }
+	 
+	 default void score()
+	 {
+		 
+	 }
+
+	
+}

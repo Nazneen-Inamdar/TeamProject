@@ -1,0 +1,17 @@
+package day4.Date;
+
+
+
+import java.time.*;
+
+public class Time {​​​​​
+ public static void main(String[] args) {​​​​​
+// display current date
+Date localDate = Date.now();
+System.out.println(localDate);
+// display current time
+LocalTime localTime = LocalTime.now();
+System.out.println(localTime);
+}​​​​​
+}​​​​​
+(8 liked)

@@ -1,0 +1,26 @@
+package Assignments;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class PlayerBO extends Player {
+	
+	
+	
+	public void displayAllPlayerDetails(ArrayList<Player> playerList)
+	{
+		
+		for(Player res:playerList)
+		{
+			System.out.println(res);
+		}
+	}
+	
+	void displaySpecificPlayerDetails(ArrayList<Player> playerList, String countryName)
+	{
+		for(Player res : playerList)
+		{
+			
+		}
+	}
+}

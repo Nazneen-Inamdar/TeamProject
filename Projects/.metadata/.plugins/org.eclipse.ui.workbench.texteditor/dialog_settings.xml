@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item value="575" key="DIALOG_X_ORIGIN"/>
+		<item value="325" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="h3" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="h4"/>
+			<item value="h6"/>
+			<item value="h1"/>
+			<item value="BeanArrayList2"/>
+			<item value="Car"/>
+			<item value="SmartPhone"/>
+			<item value="cities"/>
+			<item value="type"/>
+			<item value="employeesList"/>
+			<item value="employeeList"/>
+			<item value="a1"/>
+			<item value="bill_num"/>
+			<item value="billing_address"/>
+			<item value="box"/>
+			<item value="Constructor"/>
+		</list>
+		<list key="replacehistory">
+			<item value="h3"/>
+			<item value="h4"/>
+			<item value="h6"/>
+			<item value="Car"/>
+			<item value="BeanArrayList2"/>
+			<item value="BeanArrayList1"/>
+			<item value="State_cities"/>
+			<item value="brand"/>
+			<item value="a1"/>
+			<item value="a2"/>
+			<item value="billing_ID"/>
+			<item value="billing_name"/>
+			<item value="EquateObj"/>
+			<item value="ToString"/>
+			<item value="TestToString"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="385" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="523" key="DIALOG_HEIGHT"/>
+		<item value="1154" key="DIALOG_X_ORIGIN"/>
+		<item value="225" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

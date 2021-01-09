@@ -1,0 +1,10 @@
+package day2.Methods;
+
+public class TestExample5 {
+	public static void main(String[] args) {
+		int result1 = add(8, 5);
+		int result2 = subtract(27, 9);
+		System.out.println("result1:"+result1);
+		System.out.println("result2:"+result2);
+	}
+}

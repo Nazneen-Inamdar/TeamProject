@@ -1,0 +1,17 @@
+package Assignments;
+
+public class PlayerBO {
+	
+	void displayAllPlayerDetails(Player[] playerList)
+	{
+		for(Player res:playerList)
+		{
+			System.out.println(res);
+		}
+	}
+	
+	void displaySpecificPlayerDetails(Player[] playerList, String countryName)
+	{
+		
+	}
+}

@@ -1,0 +1,9 @@
+package day4.AbstractClass;
+
+public abstract class Animal {
+	public abstract void animalSound();
+	public void sleep() {
+	System.out.println("Zzz");
+	}
+	}
+

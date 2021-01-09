@@ -1,0 +1,14 @@
+
+public interface Training2 {
+	 default void javaTraining()
+	 {
+		 
+	 }
+	 
+	 default void score()
+	 {
+		 
+	 }
+
+	
+}

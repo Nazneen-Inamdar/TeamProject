@@ -1,0 +1,8 @@
+
+public class Training2 {
+	 String courseId;
+	 String courseName;
+	
+
+	
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;onlineQuizSystem/src/Utility/DBUtil.java&apos; to &apos;onlineQuizSytemDBUtil.java&apos;" description="Rename resource &apos;DBUtil.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Utility/DBUtil.java" name="onlineQuizSytemDBUtil.java" stamp="1608363134667" updateReferences="true"/>
+</session>
